@@ -8,7 +8,7 @@ const sideDrawer = (props) => {
 	return (
 		<Aux>
 			<Backdrop show={props.open} clicked={props.closed}/>
-			<SideDrawer show={props.open}>
+			<SideDrawer show={props.open} onClick={props.closed}>
 				<nav>
 					<NavItems />
 				</nav>

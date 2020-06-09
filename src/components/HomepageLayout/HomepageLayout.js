@@ -63,7 +63,7 @@ const homepage = (props) => {
 						<br/><br/>
 						... also a Senior Data Analyst at Datadog. I started my career pushing Excel to its limits with VBA, and have moved on to reporting in BI tools like Looker and Metabase (but Excel will always hold a special place in my heart). I've messed around with web development as a hobby for a few years and am particularly excited to continue practicing with D3. 
 						<br/><br/>
-						I love data! I love reading the cool data journalism that The Pudding and FiveThirtyEight publish. I love twisting data to support positions that are clearly incorrect. I love making assumptions and then finding out I'm wrong when I check the numbers. I love figuring out weird proxy metrics when a straightforward data source isn't available.
+						I love data! I love reading the cool data journalism that The Pudding and FiveThirtyEight publish. I love twisting data to support positions that are clearly incorrect. I love making assumptions and then finding out I'm wrong when I check the numbers. I love figuring out weird proxy metrics when a straightforward data source isn't available. Guess I found the right career :)
 					</BodyText>
 					<AboutMeImg src={profile_img}/>
 				</ContentContainer>
