@@ -71,6 +71,18 @@ const homepage = (props) => {
 			<Jumbotron section_title="Portfolio" id="portfolio">
 				<ContentContainer>
 					<ProjectTile
+						title="Open Data Week 2024"
+						description="Intro to SQL"
+						youtube_link="https://www.youtube.com/embed/tqk9RL8FEGU"
+						css_grid_width="12"
+					/>
+					<ProjectTile
+						title="School of Data 2024"
+						description="Barking Up the Right Tree"
+						youtube_link="https://www.youtube.com/embed/q4mQXnYdHIE"
+						css_grid_width="12"
+					/>
+					<ProjectTile
 						title="Looker JOIN 2019 Presentation"
 						description="Promoting Data-Driven Product Design"
 						youtube_link="https://www.youtube.com/embed/wG2rHtQ-xY8"
